@@ -1,0 +1,35 @@
+.header{
+font-size: 18px ;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+body{
+color: white;
+background-color: lightblue;
+
+}
+
+span{
+font-size: 30px;
+}
+#camera,#result{
+border : 2px dashed black ;
+width: 350px;
+height: 300px;
+}
+.emotion{
+font-size: 20px;
+color: black;
+}
+.emoji{
+font-size: 48px;
+
+}
+
+label{
+font-size: 14px;
+color: chartreuse ;
+background-color: whitesmoke;
+padding: 6px;
+border-radius: 10px;
+}
